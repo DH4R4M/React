@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+canvas {
+  cursor: crosshair;
+  margin-top: 20px;
+}
+
+input[type='color'] {
+  margin: 0 10px;
+}
